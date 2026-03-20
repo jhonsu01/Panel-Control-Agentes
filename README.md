@@ -63,7 +63,7 @@ Dashboard local para orquestar agentes de IA con gestión de tareas, proyectos, 
 ### Desde el repositorio
 
 ```bash
-git clone https://github.com/jhonsu01/PanelControlAgentes.git
+git clone https://github.com/jhonsu01/Panel-Control-Agentes.git
 cd PanelControlAgentes/dashboard
 npm install
 ```
