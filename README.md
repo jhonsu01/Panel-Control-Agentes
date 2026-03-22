@@ -1,5 +1,6 @@
 # Panel de Control para Agentes IA
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jhonsu01/Panel-Control-Agentes)
+
 Dashboard local para orquestar agentes de IA con gestión de tareas, proyectos, calendario, memorias y documentos. Construido con Next.js 16, React 19, SQLite y Tailwind CSS v4.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.2-black?logo=next.js)
